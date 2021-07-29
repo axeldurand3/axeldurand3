@@ -7,7 +7,7 @@ Most of the projects are made for the cultural field.
 
 ### Latest Websites
 
-Client | Link | Design | Year
+Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
 Tifaine Coignoux | http://tifainecoignoux.xyz/ | X | 2021
 ÉSAC Cambrai | http://www.esac-cambrai.net/jpo/ | Camille Leleu | 2021
