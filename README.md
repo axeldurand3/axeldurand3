@@ -12,7 +12,7 @@ Here is a quick selections of the latest website that I developed
 ** Web **
 
 Client | Link | Design
------------- | -------------
+------------ | ------------- | -------------
 ÉSAC Cambrai | http://www.esac-cambrai.net/jpo/ | Camille Leleu
 Content in the first column | Content in the second column
 
