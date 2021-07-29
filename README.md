@@ -5,7 +5,7 @@ Most of the projects are made for the cultural field.
 
 **Availablity: September**
 
-### Latest Websites
+### Latest Websites :desktop_computer:
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
