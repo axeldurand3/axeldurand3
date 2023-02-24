@@ -1,4 +1,4 @@
-# List
+# Recent projects
 
 Client | URL | Design | Year
 ------------ | ------------- | ------------- | -------------
@@ -9,6 +9,4 @@ Alicia Luxem | https://www.alicialuxem.com/ | X | 2022
 ÉSAC Cambrai | http://www.esac-cambrai.net/jpo/ | Camille Leleu | 2021
 Boris Grisot | https://borisssssssssgrisot.com/ | X | 2020
 
-
-Portfolio: https://axeldurand.eu/
 
